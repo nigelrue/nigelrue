@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/nigelrue/post-install-config)
   - [osTicket: Ticket Lifecycle](https://github.com/nigelrue/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]((https://github.com/nigelrue/Configure-Active-Directory-with-Azure)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/nigelrue/Configure-Active-Directory-with-Azure)
 
 <h2>🤳Connect with me:</h2>
 
