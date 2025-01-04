@@ -10,6 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/nigelrue/Configure-Active-Directory-with-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nigelrue/azure-network-protocols)
 
+<h2> Software Testing Using JIRA/ZEPHYR:<h2>
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Nigel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
